@@ -1,0 +1,98 @@
+[
+  {
+    "startTime": "00:02.100",
+    "endTime": "00:04.500",
+    "speaker": "Elias (Lead)",
+    "transcript": "Sorry I'm a bit late. The meeting on the 4th floor ran long."
+  },
+  {
+    "startTime": "00:05.000",
+    "endTime": "00:08.200",
+    "speaker": "Leo (New Hire)",
+    "transcript": "Oh, no problem at all. I was just reviewing the onboarding docs. I'm Leo, by the way."
+  },
+  {
+    "startTime": "00:08.900",
+    "endTime": "00:12.000",
+    "speaker": "Elias (Lead)",
+    "transcript": "Elias. It's great to finally meet you. I heard Sarah was very impressed in your interview."
+  },
+  {
+    "startTime": "00:12.700",
+    "endTime": "00:14.500",
+    "speaker": "Leo (New Hire)",
+    "transcript": "That's very kind. I'm excited to be here."
+  },
+  {
+    "startTime": "00:15.200",
+    "endTime": "00:19.000",
+    "speaker": "Elias (Lead)",
+    "transcript": "Good. So, I just wanted to... check in. See how you're settling in with the new codebase."
+  },
+  {
+    "startTime": "00:19.800",
+    "endTime": "00:23.500",
+    "speaker": "Leo (New Hire)",
+    "transcript": "It's... dense. (laughs) But I'm managing. I've been focusing on the rendering pipeline, as suggested."
+  },
+  {
+    "startTime": "00:24.100",
+    "endTime": "00:28.000",
+    "speaker": "Elias (Lead)",
+    "transcript": "Ah, right. That's my... that's my baby. It can be a bit particular. Let me pull it up."
+  },
+  {
+    "startTime": "00:28.800",
+    "endTime": "00:31.500",
+    "speaker":Elias (Lead)",
+    "transcript": "(Sound of typing) Okay, so the main thing to watch is the state management..."
+  },
+  {
+    "startTime": "00:32.100",
+    "endTime": "00:36.000",
+    "speaker": "Elias (Lead)",
+    "transcript": "...I'm rambling. You probably already saw this. Sorry."
+  },
+  {
+    "startTime": "00:36.700",
+    "endTime": "00:40.300",
+    "speaker": "Leo (New Hire)",
+    "transcript": "No! Not at all. It's... actually, that clarifies a lot. I was wondering about the async handling."
+  },
+  {
+    "startTime": "00:41.000",
+    "endTime": "00:43.900",
+    "speaker": "Elias (Lead)",
+    "transcript": "Right. Yeah. Most people just... get confused by it. That's... impressive."
+  },
+  {
+    "startTime": "00:44.600",
+    "endTime": "00:47.000",
+    "speaker": "Leo (New Hire)",
+    "transcript": "Well, it's a very clever solution. I like it."
+  },
+  {
+    "startTime": "00:47.800",
+    "endTime": "00:50.000",
+    "speaker": "Elias (Lead)",
+    "transcript": "(Clears throat) Thanks. Look, I... I should let you get back to it."
+  },
+  {
+    "startTime": "00:50.700",
+    "endTime": "00:54.000",
+    "speaker": "Elias (Lead)",
+    "transcript": "Welcome to the team, for real. Let me know if you... need anything. At all."
+  },
+  {
+    "startTime": "00:54.800",
+    "endTime": "00:57.200",
+    "speaker": "Leo (New Hire)",
+    "transcript": "I will. Thanks, Elias. It was nice meeting you."
+  },
+  {
+    "startTime": "00:57.900",
+    "endTime": "00:59.000",
+    "speaker": "Elias (Lead)",
+    "transcript": "You too."
+  }
+]
