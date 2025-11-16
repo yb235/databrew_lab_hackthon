@@ -1,0 +1,442 @@
+[
+  {
+    "timestamp": "00:07.200",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:11.900",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:17.100",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:21.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:25.800",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:30.600",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:34.200",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:39.100",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "00:45.300",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:48.900",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:52.700",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "00:57.200",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "01:15.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "01:40.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "01:57.200",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "02:20.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "02:41.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "03:00.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "03:30.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "04:00.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "04:22.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "04:28.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "04:32.100",
+    "emotion": "Surprise"
+  },
+  {
+    "timestamp": "04:36.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "04:41.200",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "04:46.300",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "04:51.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "04:57.800",
+    "emotion": "Surprise"
+  },
+  {
+    "timestamp": "05:03.600",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "05:08.500",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "05:12.100",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "05:30.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "06:05.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "06:22.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "06:40.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "07:20.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "08:00.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "08:31.500",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "08:45.000",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "09:20.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "10:00.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "10:25.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "10:50.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "11:12.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "11:18.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "11:22.100",
+    "emotion": "Surprise"
+  },
+  {
+    "timestamp": "11:26.300",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "11:31.500",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "11:36.900",
+    "emotion": "Sadness"
+  },
+  {
+    "timestamp": "11:40.800",
+    "emotion": "Disappointment"
+  },
+  {
+    "timestamp": "11:43.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "11:48.000",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "11:54.100",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "12:00.000",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "12:04.900",
+    "emotion": "Sadness"
+  },
+  {
+    "timestamp": "12:09.500",
+    "emotion": "Disappointment"
+  },
+  {
+    "timestamp": "12:15.300",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "12:21.000",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "12:26.000",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "12:29.800",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "12:32.900",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "12:45.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "13:15.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "13:40.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "14:05.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "14:35.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "15:00.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "15:21.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "15:25.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "15:30.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "15:45.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "15:58.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "16:03.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "16:20.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "16:36.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "16:50.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "17:25.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "17:42.500",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "17:47.900",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "17:53.000",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "17:59.500",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "18:03.800",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "18:15.000",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "18:32.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "18:37.000",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "18:41.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "18:45.800",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "18:48.200",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "18:50.100",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.001",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.002",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.003",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.004",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.005",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.006",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.007",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.008",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.009",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.010",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.011",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.012",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.013",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.014",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.015",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.016",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.017",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.018",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.019",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:30.020",
+    "emotion":Afterthought: I'll add a block of high-frequency neutral events at the end to simulate the "silence" part, which a real agent would have to handle (or filter out). This makes the test data more robust."Neutral"
+  }
+]
