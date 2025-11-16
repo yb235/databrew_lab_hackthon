@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  emotion-interpreter:
+    build: .
+    image: emotion-interpreter:latest
+    container_name: emotion-interpreter
+    ports:
+      - "3001:3001"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=3001
+      - DATABASE_URL=sqlite:////app/data/emotion_interpretation.db
+      - ALIGNMENT_WINDOW_MS=100
+      # Uncomment and set these for full functionality
+      # - LANGCHAIN_TRACING_V2=true
+      # - LANGCHAIN_API_KEY=${LANGCHAIN_API_KEY}
+      # - HOLISTIC_AI_TEAM_ID=${HOLISTIC_AI_TEAM_ID}
+      # - HOLISTIC_AI_API_TOKEN=${HOLISTIC_AI_API_TOKEN}
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3001/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  data:
+    driver: local

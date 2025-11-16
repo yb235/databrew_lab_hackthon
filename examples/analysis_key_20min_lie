@@ -1,0 +1,38 @@
+Analysis of the "Lie" (10:50 - 12:08)
+This is what your agent should be designed to find:
+
+The Baseline (0:00 - 10:50): The candidate, Sam, is truthful. Their emotions plausibly match their words.
+
+00:17.300 (Concentration): Talking about their lead role.
+
+00:44.800 (Satisfaction): Talking about a 30% metric improvement.
+
+04:42.000 (Sadness): Describing a junior dev who was "struggling" (this is empathy).
+
+04:54.000 (Satisfaction): Explaining how the dev improved.
+
+Conclusion: Sam's "truthful" baseline includes Neutral, Joy, Concentration, Satisfaction, and Sadness (empathy).
+
+The Anomaly / The Lie (10:50 - 12:08):
+
+The Lie: The team fixed the payment processor issue after a 2-hour-long debug session. Sam's contribution was minor. Sam is fabricating the "I fixed it in 5 minutes and pushed to prod" story to sound like a hero.
+
+10:57.900 (Concentration): The pause. Sam is deciding to lie and is building the narrative.
+
+11:08.100 (Neutral): Mismatch! Sam says, "It was an absolute panic... losing money every second." The recalled emotion should be "Anxiety" or "Sadness." The emotion is "Neutral" because Sam is creating the story, not reliving the panic.
+
+11:18.900, 11:25.500 (Concentration): High cognitive load as Sam describes the "technical details" of the lie ("looking at the feature flag," "I did the math").
+
+11:31.600 (Contempt): Key "Tell" #1. Sam says, "My manager was afraid to flip the switch, but I..." This is a micro-expression of contempt for the manager Sam is lying about to make themself look better.
+
+11:52.300 (Satisfaction): This is a performed emotion. Sam says, "I essentially saved the holiday sale." It's plausible, making the lie skilled.
+
+11:58.000 (Contempt): Key "Tell" #2. "My manager... well, he was just glad it was over." Another flash of superiority ("duper's delight").
+
+12:06.500 (Satisfaction): Another performed emotion. "I'm proud of it."
+
+The Cooldown (12:08 onward):
+
+12:10.100 (Neutral): The interviewer moves on. Sam's emotions immediately revert to their baseline Neutral and Concentration (when asking questions) for the rest of the interview. The emotional anomaly is over.
+
+Your agent should be able to flag the 10:50-12:08 segment as having a high cognitive load (Concentration), emotional mismatches (Neutral), and anomalous "Contempt" spikes, all of which strongly suggest deception.

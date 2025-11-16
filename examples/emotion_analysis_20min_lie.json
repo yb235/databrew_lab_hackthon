@@ -1,0 +1,190 @@
+[
+  {
+    "timestamp": "00:07.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:12.100",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "00:17.300",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:21.400",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:26.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:31.900",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:38.200",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:44.800",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "00:48.900",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "02:30.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "04:32.100",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "04:36.700",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "04:42.000",
+    "emotion": "Sadness"
+  },
+  {
+    "timestamp": "04:48.300",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "04:54.000",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "04:58.200",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "07:00.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "10:47.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "10:53.800",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "10:57.900",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "11:02.400",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "11:08.100",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "11:13.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "11:18.900",
+    "emotion":"Concentration"
+  },
+  {
+    "timestamp": "11:25.500",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "11:31.600",
+    "emotion": "Contempt"
+  },
+  {
+    "timestamp": "11:36.700",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "11:41.200",
+    "emotion": "Surprise"
+  },
+  {
+    "timestamp": "11:46.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "11:52.300",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "11:58.000",
+    "emotion": "Contempt"
+  },
+  {
+    "timestamp": "12:02.600",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "12:06.500",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "12:10.100",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "13:30.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "15:05.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "15:22.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "16:00.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "16:47.900",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "16:53.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "18:00.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "19:32.000",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "19:37.100",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "19:41.000",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "19:44.200",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "19:46.300",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "19:55.000",
+    "emotion": "Neutral"
+  }
+]

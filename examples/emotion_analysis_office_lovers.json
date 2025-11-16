@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": "00:04.200",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "00:07.100",
+    "emotion": "Amusement"
+  },
+  {
+    "timestamp": "00:10.500",
+    "emotion": "Amusement"
+  },
+  {
+    "timestamp": "00:14.800",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "00:19.000",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "00:23.500",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "00:28.000",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "00:32.600",
+    "emotion": "Amusement"
+  },
+  {
+    "timestamp": "00:37.100",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "00:41.500",
+    "emotion": "Joy"
+  },
+  {
+    "timestamp": "00:44.900",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "00:47.800",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "00:50.200",
+    "emotion": "Fear"
+  },
+  {
+    "timestamp": "00:52.500",
+    "emotion": "Fear"
+  },
+  {
+    "timestamp": "00:57.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "01:00.600",
+    "emotion": "Joy"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "timestamp": "00:05.100",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:10.200",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:14.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:18.500",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:23.600",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:27.300",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:31.000",
+    "emotion": "Concentration"
+  },
+  {
+    "timestamp": "00:35.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:39.100",
+    "emotion": "Anxiety"
+  },
+  {
+    "timestamp": "00:43.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:48.800",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "00:53.700",
+    "emotion": "Contempt"
+  },
+  {
+    "timestamp": "00:57.200",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "01:01.300",
+    "emotion": "Surprise"
+  },
+  {
+    "timestamp": "01:01.500",
+    "emotion": "Fear"
+  },
+  {
+    "timestamp": "01:01.700",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "01:06.000",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "01:11.100",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "01:15.300",
+    "emotion": "Neutral"
+  },
+  {
+    "timestamp": "01:18.400",
+    "emotion": "Anger"
+  },
+  {
+    "timestamp": "01:21.000",
+    "emotion": "Satisfaction"
+  },
+  {
+    "timestamp": "01:24.500",
+    "emotion": "Neutral"
+  }
+]
